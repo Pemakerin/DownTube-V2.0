@@ -27,5 +27,5 @@ Abra o terminal é excute os seguintes comamndos:
 
 * `bash install.sh`
 
-* `python3 frame_v3.py`
+* `python3 run_v2.py`
 
