@@ -1,6 +1,6 @@
 <h1 align="center">DownTube v2.0</h1>
 <p align="center">
-       Baixar video do Yotude
+       Baixar video do YouTude
 </p>
 
 
