@@ -19,9 +19,9 @@ com função de baixa videos "360p, 720p, 1080" é também o audio em formator M
 
 Abra o terminal é excute os seguintes comamndos: 
 
-* `git clone https://github.com/Pemakerin/YouTube.git`
+* `git clone https://github.com/Pemakerin/DownTube-V2.0.git`
 
-* `cd YouTube`
+* `cd DownTube-V2.0`
 
 * `chmod +x install.sh`
 
