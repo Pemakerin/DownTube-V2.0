@@ -33,7 +33,7 @@ Abra o terminal é excute os seguintes comamandos:
 
 <br/><br/><br/>
 <p align="center">
-<img src="https://github.com/Pemakerin/DownTube-v2.0/blob/main/desktop.png"/>
+<img src="https://github.com/Pemakerin/DownTube-v2.0/blob/main/wind.png"/>
 </p>
 <br/><br/><br/>
 
