@@ -29,3 +29,12 @@ Abra o terminal é excute os seguintes comamandos:
 
 * `python3 run_v2.py`
 
+# Windows de Pesquinsa
+
+<br/><br/><br/>
+<p align="center">
+<img src="https://github.com/Pemakerin/DownTube-v2.0/blob/main/desktop.png"/>
+</p>
+<br/><br/><br/>
+
+
