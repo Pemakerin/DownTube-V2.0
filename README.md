@@ -17,7 +17,7 @@ com função de baixa videos "360p, 720p, 1080" é também o audio em formator M
 
 # Instalação no terminal Linux ?
 
-Abra o terminal é excute os seguintes comamndos: 
+Abra o terminal é excute os seguintes comamandos: 
 
 * `git clone https://github.com/Pemakerin/DownTube-V2.0.git`
 
