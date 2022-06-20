@@ -29,7 +29,7 @@ Abra o terminal é excute os seguintes comamandos:
 
 * `python3 run_v2.py`
 
-# Windows de Pesquinsa
+# Windows de Pesquisa
 
 <br/><br/><br/>
 <p align="center">
